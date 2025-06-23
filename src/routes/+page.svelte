@@ -12,7 +12,7 @@
 
 <CenteredTextOnlyHero
 
-title="Talk to thousands. Sound like one."
+title="Talk tooo thousands. Sound like one."
 subtitle="Delphi lets you scale your expertise with a Digital Mind that responds just like you—instantly, everywhere, and always in your words."
 imageSrc="/generated/image-a-cozy-coffee-shop-scene-with-a-diverse-.webp"
 />
